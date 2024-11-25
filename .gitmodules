@@ -1,0 +1,12 @@
+[submodule "marketplace_frontend"]
+	path = marketplace_frontend
+	url = https://github.com/nuwrldnf8r/earthstream_marketplace_frontend
+[submodule "marketplace_images"]
+	path = marketplace_images
+	url = https://github.com/nuwrldnf8r/earthstream_project_images
+[submodule "market_projects"]
+	path = market_projects
+	url = https://github.com/nuwrldnf8r/earthstream_projects
+[submodule "sensor_presale"]
+	path = sensor_presale
+	url = https://github.com/nuwrldnf8r/earthstream_sensor_presale
