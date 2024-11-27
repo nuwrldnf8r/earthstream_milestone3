@@ -10,3 +10,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/nuwrldnf8r/earthstream_marketplace_frontend
+[submodule "sensor-presale"]
+	path = sensor-presale
+	url = https://github.com/nuwrldnf8r/earthstream_sensor_presale
